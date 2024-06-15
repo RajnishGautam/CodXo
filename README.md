@@ -1,2 +1,1 @@
-# CodXo
-a respository containning codes for codxo internship tasks.
+A respository containning codes for codxo internship tasks.
